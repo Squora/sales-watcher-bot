@@ -1,0 +1,32 @@
+2025-05-25 18:43:16,987 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getMe "HTTP/1.1 200 OK"
+2025-05-25 18:43:16,987 - INFO - Бот успешно запущен.
+2025-05-25 18:43:17,063 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-25 18:43:17,064 - INFO - Scheduler started
+2025-05-25 18:43:17,064 - INFO - Application started
+2025-05-25 18:43:27,370 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:43:31,301 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:43:31,303 - INFO - [1807480742] Получено сообщение: Привет
+2025-05-25 18:43:31,716 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 18:43:41,380 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:43:51,455 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:43:57,577 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<periodic_advertisement_task() running at E:\PycharmProjects\TelegramWatchSellerBot\bot.py:32> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-05-25 18:45:22,213 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getMe "HTTP/1.1 200 OK"
+2025-05-25 18:45:22,213 - INFO - Bot started.
+2025-05-25 18:45:22,290 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-25 18:45:22,291 - INFO - Scheduler started
+2025-05-25 18:45:22,291 - INFO - Application started
+2025-05-25 18:45:23,573 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:45:23,573 - INFO - [1807480742] Received message: Привет
+2025-05-25 18:45:23,683 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 18:45:33,650 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:45:43,724 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:45:53,853 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:03,929 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:14,010 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:24,085 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:34,170 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:44,247 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:54,320 - INFO - HTTP Request: POST https://api.telegram.org/bot8038659988:AAEQOdHNw88f92QDFegtnnwTlKFUFWmsu9s/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 18:46:55,382 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<periodic_advertisement_task() running at E:\PycharmProjects\TelegramWatchSellerBot\bot.py:32> wait_for=<Future pending cb=[Task.task_wakeup()]>>

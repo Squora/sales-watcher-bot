@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Casio G-Shock GA-2100",
+    "description": "Надёжные японские часы с ударопрочным корпусом и современным дизайном.",
+    "price": 8990,
+    "image": "https://content.thewosgroup.com/productimage/17050965/17050965_1.jpg?impolicy=zoom",
+    "category": "sport_watch"
+  },
+  {
+    "name": "Seiko 5 SNK809",
+    "description": "Классические автоматические часы с минималистичным дизайном и военным стилем.",
+    "price": 12990,
+    "image": "https://content.thewosgroup.com/productimage/18960072/18960072_1.jpg?impolicy=zoom",
+    "category": "business_watch"
+  },
+  {
+    "name": "Citizen Eco-Drive BM8180-03E",
+    "description": "Экологичные часы с солнечной подзарядкой и водозащитой 100 м.",
+    "price": 14990,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNu3aY0e-kPbcxKbhLZTCQPHOYQQq7FGqQ5bhxweGGuchqr16O-hbo5KBjn5JtxF-KLxE7EqdhO9fwRFlkVI2Qt18tRhRanNr8t5GIMBBRObW74SopwdpxwzGUnLCR&usqp=CAc",
+    "category": "sport_watch"
+  },
+  {
+    "name": "Orient Bambino Version IV",
+    "description": "Элегантные механические часы в ретро-стиле для ценителей классики.",
+    "price": 16900,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRr6W7MRJyvTBPLju74vWiTB-p-c5gVTzVG8Kt3aDKbsuOlBOsrJy6O03yeUqHiQZ6SD8trJVMRoyZMqokTE1lbDt15R_2vA50E3qUC1EbUviWvY8yp9U1Z6aDXFzIud20YNK6I8Js&usqp=CAc",
+    "category": "mechanical_watch"
+  },
+  {
+    "name": "Tissot PRX Quartz",
+    "description": "Современные швейцарские часы с культовым дизайном 70-х и сапфировым стеклом.",
+    "price": 37990,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWAXvb4bGk_wN9yTODqCCQEkrntOxWvY1UTS5gFHdtW97ATQhtOXD72B4upe8KtUihxUunBzxTzP9Kg3O6AKHws-niJP0c2d0UCrU4tyQoaQWSw4C42r_5dodKP1ZI24tGYzCUnkHb0A&usqp=CAc",
+    "category": "business_watch"
+  },
+  {
+    "name": "Rolex Submariner Date",
+    "description": "Легендарные дайверские часы класса люкс с автоподзаводом и безелем из керамики.",
+    "price": 1150000,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSu4-36H1s3R9hvCxbpkKfcOPvSLUAhkrtLF4VZbvjLidbZu40GURJU-XrvhL0a7L_ogqGV58kjj09v75VFPg9OS6VUPm_8cM-U7jv9R5xmuap6KJ_3udr7P3Yw10almoqARJDA8Ms&usqp=CAc",
+    "category": "luxury_watch"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "description": "Цифровые умные часы для активных людей.",
+    "price": 45990,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTKW_-66RIhLXnQdJKnQtN5omUjNTdRTvtebXlViOPv3hOBOmDE_s224F8AQrQdCokuWtjDTotYjejrdbiE5v8_TysrrYG-qSzOiCjhI2KZohOz2AxjZTCQzCUCIABsBqXcxIE2eVKqRA&usqp=CAc",
+    "category": "smart_watch"
+  }
+]
